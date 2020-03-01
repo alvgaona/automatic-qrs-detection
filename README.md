@@ -4,9 +4,9 @@ This project aims to apply signal processing techniques and tools to peform an a
 
 ## Techniques
 
-- Short Time Fourier Transform
-- Digital filters design.
-- Time-frequency analysis
+- Fast Fourier Transform
+- Digital filters design
+- Time-frequency analysis (i. e. Poles and zeros, Bode Diagram, Group Delay)
 
 # Introduction
 
