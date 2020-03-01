@@ -38,7 +38,7 @@ depolarization and ventricular repolarization. Its duration will be between 320 
 
 Manually locate the QRS complexes and determine the segments that make up the wave.
 
-2. **QRS Characteristics**
+2. **QRS Frequency characteristics**
 
 Show the frequency characteristics of the QRS complex.
 
@@ -89,7 +89,7 @@ Justify for which frequencies this approach is valid based
 in the frequency response of the system obtained.
 Calculate the delay produced by the filter and obtain the derivative of the output signal from the previous stage.
 
-9. **Square Output**
+9. **Squared Output**
 
 Obtain the square of the output signal of the differentiation stage and show the effect produced in time and frequency.
 
