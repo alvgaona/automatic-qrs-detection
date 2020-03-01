@@ -1,0 +1,35 @@
+*           text=auto whitespace=trailing-space,space-before-tab,-indent-with-non-tab,tab-in-indent,tabwidth=4
+
+.git*       text export-ignore
+
+*.txt          text
+
+*.rst          text conflict-marker-size=80
+*.md           text conflict-marker-size=200
+
+*.avi       binary
+*.bmp       binary
+*.exr       binary
+*.ico       binary
+*.jpeg      binary
+*.jpg       binary
+*.png       binary
+*.gif       binary
+
+*.a         binary
+*.so        binary
+*.dll       binary
+*.jar       binary
+
+*.pdf       binary
+*.pbxproj   binary
+*.vec       binary
+*.doc       binary
+*.dia       binary
+
+*.xml                      -text whitespace=cr-at-eol
+*.yml                      -text whitespace=cr-at-eol
+.project                   -text whitespace=cr-at-eol merge=union
+.classpath                 -text whitespace=cr-at-eol merge=union
+.cproject                  -text whitespace=cr-at-eol merge=union
+org.eclipse.jdt.core.prefs -text whitespace=cr-at-eol merge=union
