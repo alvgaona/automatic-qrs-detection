@@ -108,8 +108,7 @@ You can use the first minute of the signal to adjust the parameters of said algo
 
 Use the Gold Standard algorithm, whose implementation is in the file
 `qrs.m` detection, to perform automatic detection of QRS complexes from the signal output of the preprocessing stage.
-Evaluate performance by counting the number of false
-Positive and false negative.
+Evaluate performance by counting the number of false positive and false negative.
 A false positive is a brand that does not correspond to a complex
 QRS This can also be taken as the erroneous insertion of a QRS complex brand. 
 A false negative is not marking a QRS complex.
