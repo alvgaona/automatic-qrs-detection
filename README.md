@@ -1,4 +1,4 @@
-# Automatic QRS Complex Detection in Real-time
+# Automatic QRS Complex Detection
 
 This project aims to apply signal processing techniques and tools to peform an analysis and automatic QRS complex detection on large duration ECG signals.
 
